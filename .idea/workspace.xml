@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a485c6f1-9440-4e33-a6c0-c1be3c9e1eba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UrweQGMfrCarkRuqMEMGHLaSTt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.DefaultArgs">
+    <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
+      <module name="rock-the-jvm-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultArgs" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.DefaultArgs" />
+      <module name="rock-the-jvm-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodNotation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.MethodNotation" />
+      <module name="rock-the-jvm-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
+      <module name="rock-the-jvm-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.StringOps" />
+      <module name="rock-the-jvm-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DefaultArgs" />
+        <item itemvalue="Application.MethodNotation" />
+        <item itemvalue="Application.OOBasics" />
+        <item itemvalue="Application.StringOps" />
+        <item itemvalue="Application.CBNvsCBV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/code/spark-avro" value="PREVIEW" />
+        <entry key="D:/code/spark-bigquery-connector" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a485c6f1-9440-4e33-a6c0-c1be3c9e1eba" name="Default Changelist" comment="" />
+      <created>1576128116840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576128116840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="447" width="416" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1580031197740">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="744" y="447" width="416" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1580031197740" />
+    <state x="744" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1580029472063" />
+    <state x="744" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1580029782817" />
+    <state width="1602" height="263" key="GridCell.Tab.0.bottom" timestamp="1580223298130">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1602" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298130" />
+    <state width="1602" height="263" key="GridCell.Tab.0.center" timestamp="1580223298129">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1602" height="263" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298129" />
+    <state width="1602" height="263" key="GridCell.Tab.0.left" timestamp="1580223298129">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1602" height="263" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298129" />
+    <state width="1602" height="263" key="GridCell.Tab.0.right" timestamp="1580223298130">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1602" height="263" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298130" />
+    <state x="453" y="163" key="SettingsEditor" timestamp="1580029897785">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="453" y="163" key="SettingsEditor/0.23.1792.1030@0.23.1792.1030" timestamp="1580029608369" />
+    <state x="453" y="163" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1580029897785" />
+    <state x="301" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1580727936600">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="301" y="365" key="com.intellij.ide.util.TipDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1580727936600" />
+  </component>
+</project>
