@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a485c6f1-9440-4e33-a6c0-c1be3c9e1eba" name="Default Changelist" comment="" />
+    <list default="true" id="a485c6f1-9440-4e33-a6c0-c1be3c9e1eba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part1basics/Recursion$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part1basics/Recursion$.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,6 +36,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1UrweQGMfrCarkRuqMEMGHLaSTt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.DefaultArgs">
+  <component name="RunManager" selected="Application.OOBasics">
     <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
       <module name="rock-the-jvm-beginners" />
@@ -108,9 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOBasics" />
         <item itemvalue="Application.DefaultArgs" />
         <item itemvalue="Application.MethodNotation" />
-        <item itemvalue="Application.OOBasics" />
         <item itemvalue="Application.StringOps" />
         <item itemvalue="Application.CBNvsCBV" />
       </list>
@@ -163,21 +170,25 @@
     <state x="744" y="447" width="416" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1580031197740" />
     <state x="744" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1580029472063" />
     <state x="744" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1580029782817" />
-    <state width="1602" height="263" key="GridCell.Tab.0.bottom" timestamp="1580223298130">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state width="1207" height="277" key="GridCell.Tab.0.bottom" timestamp="1580804355208">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
+    <state width="1207" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355208" />
     <state width="1602" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298130" />
-    <state width="1602" height="263" key="GridCell.Tab.0.center" timestamp="1580223298129">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state width="1207" height="277" key="GridCell.Tab.0.center" timestamp="1580804355207">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
+    <state width="1207" height="277" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355207" />
     <state width="1602" height="263" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298129" />
-    <state width="1602" height="263" key="GridCell.Tab.0.left" timestamp="1580223298129">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state width="1207" height="277" key="GridCell.Tab.0.left" timestamp="1580804355206">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
+    <state width="1207" height="277" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355206" />
     <state width="1602" height="263" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298129" />
-    <state width="1602" height="263" key="GridCell.Tab.0.right" timestamp="1580223298130">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state width="1207" height="277" key="GridCell.Tab.0.right" timestamp="1580804355207">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
+    <state width="1207" height="277" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355207" />
     <state width="1602" height="263" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298130" />
     <state x="453" y="163" key="SettingsEditor" timestamp="1580029897785">
       <screen x="0" y="23" width="1792" height="1031" />
