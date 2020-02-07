@@ -1,3 +1,6 @@
 .idea
 *.iml
 out
+
+# Exclude out directory
+./out

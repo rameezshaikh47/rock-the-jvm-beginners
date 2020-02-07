@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a485c6f1-9440-4e33-a6c0-c1be3c9e1eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/excersises/MyList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Inheritance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Objects.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part1basics/Recursion$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part1basics/Recursion$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-beginners/lectures/part2oop/MethodNotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/MethodNotation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/MethodNotation.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +55,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.OOBasics">
-    <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
+  <component name="RunManager" selected="Application.ListTest">
+    <configuration name="AbstractDataType" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.AbstractDataType" />
       <module name="rock-the-jvm-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +69,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultArgs" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.DefaultArgs" />
+    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.InheritanceAndTraits" />
       <module name="rock-the-jvm-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="excersises.ListTest" />
+      <module name="rock-the-jvm-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excersises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
+    <configuration name="Objects" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Objects" />
       <module name="rock-the-jvm-beginners" />
       <extension name="coverage">
         <pattern>
@@ -100,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.StringOps" />
-      <module name="rock-the-jvm-beginners" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OOBasics" />
-        <item itemvalue="Application.DefaultArgs" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.AbstractDataType" />
+        <item itemvalue="Application.InheritanceAndTraits" />
+        <item itemvalue="Application.Objects" />
         <item itemvalue="Application.MethodNotation" />
-        <item itemvalue="Application.StringOps" />
-        <item itemvalue="Application.CBNvsCBV" />
       </list>
     </recent_temporary>
   </component>
@@ -170,26 +178,38 @@
     <state x="744" y="447" width="416" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1580031197740" />
     <state x="744" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1580029472063" />
     <state x="744" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1580029782817" />
-    <state width="1207" height="277" key="GridCell.Tab.0.bottom" timestamp="1580804355208">
+    <state width="855" height="277" key="GridCell.Tab.0.bottom" timestamp="1581075681725">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1207" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355208" />
-    <state width="1602" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298130" />
-    <state width="1207" height="277" key="GridCell.Tab.0.center" timestamp="1580804355207">
+    <state width="855" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1581062278926" />
+    <state width="855" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1581075681725" />
+    <state width="855" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1581075510351" />
+    <state width="1065" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1580889172084" />
+    <state width="855" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1580991750183" />
+    <state width="855" height="277" key="GridCell.Tab.0.center" timestamp="1581075681725">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1207" height="277" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355207" />
-    <state width="1602" height="263" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298129" />
-    <state width="1207" height="277" key="GridCell.Tab.0.left" timestamp="1580804355206">
+    <state width="855" height="277" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1581062278926" />
+    <state width="855" height="277" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1581075681725" />
+    <state width="855" height="277" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1581075510350" />
+    <state width="1065" height="277" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1580889172084" />
+    <state width="855" height="277" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1580991750182" />
+    <state width="855" height="277" key="GridCell.Tab.0.left" timestamp="1581075681724">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1207" height="277" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355206" />
-    <state width="1602" height="263" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298129" />
-    <state width="1207" height="277" key="GridCell.Tab.0.right" timestamp="1580804355207">
+    <state width="855" height="277" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1581062278925" />
+    <state width="855" height="277" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1581075681724" />
+    <state width="855" height="277" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1581075510350" />
+    <state width="1065" height="277" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1580889172083" />
+    <state width="855" height="277" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1580991750182" />
+    <state width="855" height="277" key="GridCell.Tab.0.right" timestamp="1581075681725">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1207" height="277" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1580804355207" />
-    <state width="1602" height="263" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1580223298130" />
+    <state width="855" height="277" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1581062278926" />
+    <state width="855" height="277" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1581075681725" />
+    <state width="855" height="277" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1581075510351" />
+    <state width="1065" height="277" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1580889172084" />
+    <state width="855" height="277" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1580991750183" />
     <state x="453" y="163" key="SettingsEditor" timestamp="1580029897785">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
