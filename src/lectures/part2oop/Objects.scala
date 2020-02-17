@@ -1,8 +1,8 @@
 package lectures.part2oop
 
-object Objects  {
+object Objects {
 
-  // SCALA DOES NIT HAVE CLASS-LEVEL FUNTIONALITY ("static")
+  // SCALA DOES NOT HAVE CLASS-LEVEL FUNTIONALITY ("static")
   // To use class level functions in scala we use Objects
   // Scala object is a SINGLETON INSTANCE
   // When an Object is defined, its type is defined and its only instance
@@ -45,6 +45,9 @@ object Objects  {
   // This can be also called as
   val bobbie1 = Person(person1, person2)
 
+    println(bobbie)
+    println(bobbie1)
+    println(bobbie == bobbie1)
   // Scala Applications = Scala object with
   // def main(args: Array[String]) : Unit ==> extends App
 

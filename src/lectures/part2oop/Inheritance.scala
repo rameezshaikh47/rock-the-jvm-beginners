@@ -3,7 +3,7 @@ package lectures.part2oop
 object Inheritance extends App {
   /**                         Inheritance
    *                          -----------
-   * 1. extending a class mean inheriting all non-private fields and methods
+   * 1. extending a class means inheriting all non-private fields and methods
    * 2. cat is called sub-class of Animal and Animal is called super-class of Cat
    * 3. Scala offers single class inheritance that is only one class can be inherited at a time
    * 4. PRIVATE methods or fields are accessible within the class they are declared in
@@ -79,5 +79,4 @@ object Inheritance extends App {
   val unknownAnimal: Animal = new Dog("K9")
   unknownAnimal.sounds
 
-  // Overriding VS Overloading
  }
